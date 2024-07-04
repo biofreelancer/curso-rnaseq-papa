@@ -1,7 +1,10 @@
 # ignore NF tmps
 work
-
 .nextflow*
+
+# ignore results from tests
+prueba-DGE/
+prueba-conteos/
 
 # ignore results that can be build back
 results
