@@ -1,0 +1,15 @@
+sample,fastq_1,strandedness,condition,replicate
+SNF2_48_1,2-input-fastq/SNF2_48_1.markdup.sorted.bam.sampled.fastq.gz,auto,MUTANT,1
+SNF2_48_2,2-input-fastq/SNF2_48_2.markdup.sorted.bam.sampled.fastq.gz,auto,MUTANT,2
+SNF2_48_3,2-input-fastq/SNF2_48_3.markdup.sorted.bam.sampled.fastq.gz,auto,MUTANT,3
+SNF2_48_4,2-input-fastq/SNF2_48_4.markdup.sorted.bam.sampled.fastq.gz,auto,MUTANT,4
+SNF2_48_5,2-input-fastq/SNF2_48_5.markdup.sorted.bam.sampled.fastq.gz,auto,MUTANT,5
+SNF2_48_6,2-input-fastq/SNF2_48_6.markdup.sorted.bam.sampled.fastq.gz,auto,MUTANT,6
+SNF2_48_7,2-input-fastq/SNF2_48_7.markdup.sorted.bam.sampled.fastq.gz,auto,MUTANT,7
+WT_48_1,2-input-fastq/WT_48_1.markdup.sorted.bam.sampled.fastq.gz,auto,WT,1
+WT_48_2,2-input-fastq/WT_48_2.markdup.sorted.bam.sampled.fastq.gz,auto,WT,2
+WT_48_3,2-input-fastq/WT_48_3.markdup.sorted.bam.sampled.fastq.gz,auto,WT,3
+WT_48_4,2-input-fastq/WT_48_4.markdup.sorted.bam.sampled.fastq.gz,auto,WT,4
+WT_48_5,2-input-fastq/WT_48_5.markdup.sorted.bam.sampled.fastq.gz,auto,WT,5
+WT_48_6,2-input-fastq/WT_48_6.markdup.sorted.bam.sampled.fastq.gz,auto,WT,6
+WT_48_7,2-input-fastq/WT_48_7.markdup.sorted.bam.sampled.fastq.gz,auto,WT,7
