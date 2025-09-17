@@ -1,0 +1,2 @@
+id,variable,reference,target,blocking
+condition_MED_LOW,condition,ctrl_MC,ctrl_LC,

@@ -1,0 +1,13 @@
+sample,fastq_1,fastq_2,strandedness,condition,replicate
+ctp_64,2-real-input/CTP-DIO-64_R1_001.fastq.gz,2-real-input/CTP-DIO-64_R2_001.fastq.gz,auto,ctrl_MC,1
+ctp_65,2-real-input/CTP-DIO-65_R1_001.fastq.gz,2-real-input/CTP-DIO-65_R2_001.fastq.gz,auto,ctrl_MC,2
+ctp_66,2-real-input/CTP-DIO-66_R1_001.fastq.gz,2-real-input/CTP-DIO-66_R2_001.fastq.gz,auto,ctrl_MC,3
+ctp_67,2-real-input/CTP-DIO-67_R1_001.fastq.gz,2-real-input/CTP-DIO-67_R2_001.fastq.gz,auto,ctrl_MC,4
+ctp_68,2-real-input/CTP-DIO-68_R1_001.fastq.gz,2-real-input/CTP-DIO-68_R2_001.fastq.gz,auto,ctrl_MC,5
+ctp_69,2-real-input/CTP-DIO-69_R1_001.fastq.gz,2-real-input/CTP-DIO-69_R2_001.fastq.gz,auto,ctrl_MC,6
+ctp_46,2-real-input/CTP-DIO-46_R1_001.fastq.gz,2-real-input/CTP-DIO-46_R2_001.fastq.gz,auto,ctrl_LC,1
+ctp_47,2-real-input/CTP-DIO-47_R1_001.fastq.gz,2-real-input/CTP-DIO-47_R2_001.fastq.gz,auto,ctrl_LC,2
+ctp_48,2-real-input/CTP-DIO-48_R1_001.fastq.gz,2-real-input/CTP-DIO-48_R2_001.fastq.gz,auto,ctrl_LC,3
+ctp_70,2-real-input/CTP-DIO-70_R1_001.fastq.gz,2-real-input/CTP-DIO-70_R2_001.fastq.gz,auto,ctrl_LC,4
+ctp_71,2-real-input/CTP-DIO-71_R1_001.fastq.gz,2-real-input/CTP-DIO-71_R2_001.fastq.gz,auto,ctrl_LC,5
+ctp_72,2-real-input/CTP-DIO-72_R1_001.fastq.gz,2-real-input/CTP-DIO-72_R2_001.fastq.gz,auto,ctrl_LC,6
